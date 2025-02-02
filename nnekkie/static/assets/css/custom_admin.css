@@ -1,0 +1,5 @@
+/* Force applying the styles */
+.navbar-brand img {
+    max-height: 5px !important;  /* Ensure this gets applied */
+    width: auto !important;       /* Ensure width is auto */
+}
